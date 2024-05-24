@@ -10,8 +10,7 @@ justify-content: center;
 height: 100vh;
 text-align: center;
 transition:all 5s ease-in-out;
-display: flex;
-flex-wrap: wrap;
+
 }
 p{
     padding: 4%;
